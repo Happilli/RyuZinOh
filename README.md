@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/? username=RyuZinOh)
+![Profile Views](https://komarev.com/ghpvc/?username=RyuZinOh)
 
 ## About Me
 
