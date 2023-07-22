@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**RyuZinOh/RyuZinOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/? username=RyuZinOh)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! 👋 I'm Safal, a passionate programmer and technology enthusiast. I love creating innovative solutions and exploring the fascinating world of coding. My GitHub repository is a showcase of my projects, experiments, and contributions to the open-source community.
+
+## Programming Languages and Tools
+
+- **Python**
+- **JavaScript**
+- **Django**
+- **C**
+- **HTML/CSS**
+- **Jekyll/React**
+
+I enjoy working on a wide range of projects, from web development to machine learning and more.
+
+## Connect with Me
+- [Portfolio](https://happilli.github.io)
+
+Looking forward to connecting with you! Happy coding! 🚀
