@@ -8,7 +8,7 @@
 |----------------|---------------|------|
 | Python         | Intermediate | ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
 | JavaScript     | Intermediate     | ![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| HTML/CSS       | Intermediate | ![HTML/CSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) |
+| HTML/CSS       | Professional| ![HTML/CSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) |
 | C++            | Beginner      | ![C++ Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
 | C              | Intermediate | ![C Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) |
 | SQL            | Intermediate | ![SQL Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
