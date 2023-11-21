@@ -21,4 +21,4 @@ I'm a passionate developer who loves to learn and explore new technologies. My p
 
 Feel free to reach out to me on Discord! Let's collaborate on some cool projects together.
 
-[![Join my Discord Server](https://img.shields.io/discord/your-discord-server-id?color=7289da&label=Join%20My%20Discord%20Server&logo=discord&style=for-the-badge)](https://discord.gg/your-invite-link)
+[![Join my Discord Server](https://img.shields.io/discord/your-discord-server-id?color=7289da&label=Join%20My%20Discord%20Server&logo=discord&style=for-the-badge)](https://discord.gg/9MR3jPTzjD)
