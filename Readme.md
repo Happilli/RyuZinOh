@@ -12,6 +12,7 @@
 | C++            | Beginner      | ![C++ Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
 | C              | Intermediate | ![C Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) |
 | SQL            | Intermediate | ![SQL Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
+| Firebase       | Beginner   |![Firebase logo ](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg) |
 
 ## About Me
 
