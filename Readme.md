@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuzinoh)
 
-# Hi there! 👋 I'm [Safal Lama](https://happilli.github.io)
+# Hi 👋 I'm [Safal Lama](https://safallama.com.np), [Happilli](https://github.com/happilli) !
 
 ## Languages and Tools I've Learned
 
