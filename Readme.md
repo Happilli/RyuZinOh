@@ -47,4 +47,4 @@
 
 ## About Me
 
-*"I am a coder by day and a passionate advocate for technology and society by night."*
+*"i love to code by day, when night falls i save society, _i am batman_"*
