@@ -1,69 +1,39 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuzinoh)
 
-# Hi 👋 I'm [Safal Lama](https://safallama.com.np), [Happilli](https://github.com/happilli) !
+# Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
 
-## Languages and Tools I've Learned
+## Languages and Tools I've Mastered
 
-<table>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td><strong>good</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="50" height="50"/></td>
-    <td><strong>JavaScript</strong></td>
-    <td><strong>good</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td><strong>HTML/CSS</strong></td>
-    <td><strong>s tier</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML/CSS Icon" width="50" height="50"/></td>
-    <td><strong>C++</strong></td>
-    <td><strong>good</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Icon" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td><strong>C</strong></td>
-    <td><strong>goood</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Icon" width="50" height="50"/></td>
-    <td><strong>SQL</strong></td>
-    <td><strong>good, can use own payload</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL Icon" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td><strong>Firebase</strong></td>
-    <td><strong>good, prolly w </strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase Icon" width="50" height="50"/></td>
-    <td><strong>Next.js</strong></td>
-    <td><strong>good, but bad at routing</strong></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td><strong>React.js</strong></td>
-    <td><strong>Intermediate</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js Icon" width="50" height="50"/></td>
-    <td><strong>Node.js</strong></td>
-    <td><strong>ofc good , just have to copy and paste</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Icon" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td><strong>Bootstrap</strong></td>
-    <td><strong>same as node </strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="50" height="50"/></td>
-    <td><strong>Tailwind CSS</strong></td>
-    <td><strong>same as bootstrap</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Icon" width="50" height="50"/></td>
-  </tr>
-  <tr>
-    <td><strong>Bash Scripting</strong></td>
-    <td><strong>born with this knowledge using since 10th grade</strong></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Scripting Icon" width="50" height="50"/></td>
-    <td colspan="3"></td>
-  </tr>
-</table>
+### Programming Languages
+| **Language** | **Proficiency** | **Icon** |
+|--------------|-----------------|----------|
+| **Python**   | Proficient      | ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
+| **JavaScript** | Proficient    | ![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+| **C++**      | Proficient      | ![C++ Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
+| **C**        | Proficient      | ![C Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) |
+| **SQL**      | Experienced     | ![SQL Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
+| **Bash**     | Extensive       | ![Bash Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) |
+| **C#**       | Proficient      | ![C# Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) |
+| **VB.NET**   | Proficient      | ![VB.NET Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg) |
+
+### Web Frameworks and Tools
+| **Framework** | **Proficiency** | **Icon** |
+|---------------|-----------------|----------|
+| **Next.js**   | Competent       | ![Next.js Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg) |
+| **React.js**  | Intermediate    | ![React.js Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
+| **Node.js**   | Proficient      | ![Node.js Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) |
+| **Firebase**  | Experienced     | ![Firebase Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg) |
+| **Bootstrap** | Proficient      | ![Bootstrap Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) |
+| **Tailwind CSS** | Proficient    | ![Tailwind CSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) |
+| **Jekyll**    | Proficient      | ![Jekyll Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jekyll/jekyll-original.svg) |
+
+### Linux and Cybersecurity Interests
+| **Field**     | **Icon** |
+|---------------|----------|
+| **Linux**     | ![Linux Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
+| **Cybersecurity** | ![Cybersecurity Icon](https://img.icons8.com/fluency/48/fingerprint.png) |
 
 ## GitHub Profile Overview
-
-# Github 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/ryuzinoh">
@@ -75,8 +45,6 @@
   </a>
 </div>
 
-
-
 ## About Me
 
-_yea, i am batman_
+*"I am a coder by day and a passionate advocate for technology and society by night."*
