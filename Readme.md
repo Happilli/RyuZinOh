@@ -1,37 +1,36 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ryuzinoh)
-
 # Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
 
 ## Languages and Tools I've Mastered
 
 ### Programming Languages
-| **Language** | **Proficiency** | **Icon** |
-|--------------|-----------------|----------|
-| **Python**   | Proficient      | ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
-| **JavaScript** | Proficient    | ![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| **C++**      | Proficient      | ![C++ Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) |
-| **C**        | Proficient      | ![C Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) |
-| **SQL**      | Experienced     | ![SQL Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
-| **Bash**     | Extensive       | ![Bash Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) |
-| **C#**       | Proficient      | ![C# Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) |
-| **VB.NET**   | Proficient      | ![VB.NET Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg) |
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" title="C++" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" title="C" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="SQL" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" title="Bash" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="48" title="VB.NET" /> 
+</div>
 
 ### Web Frameworks and Tools
-| **Framework** | **Proficiency** | **Icon** |
-|---------------|-----------------|----------|
-| **Next.js**   | Competent       | ![Next.js Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg) |
-| **React.js**  | Intermediate    | ![React.js Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) |
-| **Node.js**   | Proficient      | ![Node.js Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) |
-| **Firebase**  | Experienced     | ![Firebase Icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg) |
-| **Bootstrap** | Proficient      | ![Bootstrap Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) |
-| **Tailwind CSS** | Proficient    | ![Tailwind CSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) |
-| **Jekyll**    | Proficient      | ![Jekyll Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jekyll/jekyll-original.svg) |
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" title="Next.js" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React.js" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" title="Node.js" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="48" title="Firebase" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" title="Bootstrap" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind CSS" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jekyll/jekyll-original.svg" width="48" title="Jekyll" /> 
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="48" title="Java" /> 
+</div>
 
 ### Linux and Cybersecurity Interests
-| **Field**     | **Icon** |
-|---------------|----------|
-| **Linux**     | ![Linux Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
-| **Cybersecurity** | ![Cybersecurity Icon](https://img.icons8.com/fluency/48/fingerprint.png) |
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" title="Linux" /> 
+  <img src="https://img.icons8.com/fluency/48/fingerprint.png" width="48" title="Cybersecurity" /> 
+</div>
 
 ## GitHub Profile Overview
 
@@ -47,4 +46,4 @@
 
 ## About Me
 
-*"i love to code by day, when night falls i save society, _i am batman_"*
+*"I love to code by day, when night falls I save society, _I am Batman._"*
