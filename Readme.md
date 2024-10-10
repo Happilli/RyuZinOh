@@ -47,3 +47,5 @@
 ## About Me
 
 *"I love to code by day, when night falls I save society, _I am Batman._"*
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="safal-lama-379738330" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/safal-lama-379738330?trk=profile-badge">Safal Lama</a></div>
+              
