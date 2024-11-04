@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-### want ot for yourself?
+### want it for yourself?
  **Go make yours now:** [From Here](https://image-processor-zirw.onrender.com/)
 ---
 
