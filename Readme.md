@@ -49,12 +49,25 @@
 *"I love to code by day, when night falls I save society, _I am Batman._"*
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happilli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safal-lama-379738330/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/happillli_/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myExistenceIsMythToMyOwnPast/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoyuehappy)
+ 
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happilli)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safal-lama-379738330/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/happillli_/)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myExistenceIsMythToMyOwnPast/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoyuehappy)
 </div>
 
-              
+---
+## Featured Image
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/RyuZinOh/static-assets/main/processedIMage/saverCard.png" alt="Saver Card" width="600" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    </td>
+  </tr>
+</table>
+
+### want ot for yourself?
+ **Go make yours now:** [From Here](https://image-processor-zirw.onrender.com/)
+---
+
