@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/RyuZinOh/static-assets/main/processedIMage/safal1.png" alt="Saver Card" width="600" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+      <img src="https://github.com/RyuZinOh/static-assets/blob/main/safal_profile.png" alt="Saver Card" width="600" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
     </td>
   </tr>
 </table>
