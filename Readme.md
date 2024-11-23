@@ -41,11 +41,11 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/happilli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happilli&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
   </a>
   
   <a href="https://github.com/happilli">
-    <img src="https://github-readme-stats.vercel.app/api?username=happilli&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
   </a>
 </div>
 
