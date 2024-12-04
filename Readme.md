@@ -1,5 +1,5 @@
 # Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
-
+# currenlty learning DJANGO administrative so that i can scale all my flask project to more advanced level.
 ## Languages and Tools I've Mastered
 
 ### Programming Languages
