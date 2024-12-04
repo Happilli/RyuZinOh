@@ -1,5 +1,7 @@
 # Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
-# currenlty learning DJANGO administrative so that i can scale all my flask project to more advanced level.
+
+## currenlty learning DJANGO administrative so that i can scale all my flask project to more advanced level.
+## my advice -> create a discord bot to change database access as an admin for any web app, dont make admin for web app, let the discord security handle this :) , its my next project
 ## Languages and Tools I've Mastered
 
 ### Programming Languages
