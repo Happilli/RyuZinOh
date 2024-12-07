@@ -1,7 +1,10 @@
 # Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
 
-## currenlty learning DJANGO administrative so that i can scale all my flask project to more advanced level.
-## my advice -> create a discord bot to change database access as an admin for any web app, dont make admin for web app, let the discord security handle this :) , its my next project
+Currently, I'm diving into Django to level up my Flask projects and exploring ways to integrate a Discord bot for secure database management. My next big project will involve shifting admin privileges to Discord security for better control over web app access.
+
+## 💡 My Advice:
+*Don't give admin privileges directly to your web apps. Use a Discord bot to manage access securely—this is what I'm working on next!*
+
 ## Languages and Tools I've Mastered
 
 ### Programming Languages
@@ -9,8 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" title="C++" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" title="C" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="SQL" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" title="C" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" title="Bash" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="48" title="VB.NET" /> 
@@ -31,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" title="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" title="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"width="48" title="Mongo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="SQL" />
 </div>
 
 ### Cybersecurity and Operating Systems
@@ -43,14 +47,19 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/happilli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happilli&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
   </a>
   
   <a href="https://github.com/happilli">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=happilli&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
+  </a>
+  
+  <a href="https://github.com/happilli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=happilli&theme=midnight-purple" alt="Streak Stats" height="150">
   </a>
 </div>
 
+---
 
 ## About Me
 
@@ -62,8 +71,8 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myExistenceIsMythToMyOwnPast/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yoyuehappy)
 
-
 ---
+
 ## Featured Image
 <table>
   <tr>
@@ -76,4 +85,3 @@
 ### Want it for yourself?
 **Go make yours now:** [From Here](https://image-processor-dql9.onrender.com)
 
----
