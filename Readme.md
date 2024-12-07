@@ -46,16 +46,16 @@ Currently, I'm diving into Django to level up my Flask projects and exploring wa
 ## GitHub Profile Overview
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <a href="https://github.com/happilli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happilli&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
+  <a href="https://github.com/ryuzinoh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
   </a>
   
-  <a href="https://github.com/happilli">
-    <img src="https://github-readme-stats.vercel.app/api?username=happilli&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
+  <a href="https://github.com/ryuzinoh">
+    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
   </a>
   
-  <a href="https://github.com/happilli">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=happilli&theme=midnight-purple" alt="Streak Stats" height="150">
+  <a href="https://github.com/ryuzinoh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" alt="Streak Stats" height="150">
   </a>
 </div>
 
